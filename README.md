@@ -23,12 +23,26 @@ See [CHANGELOG](https://github.com/twada/dereserve/blob/master/CHANGELOG.md)
 USAGE
 ---------------------------------------
 
-```
-dereserve example.js > build/example.js 
+Run `dereserve example.js > build/example.js` or `cat example.js | dereserve > build/example.js`
+
+transforms
+
+```javascript
+ajax('/asdf/1').catch(function(reason) {
+
+}).finally(function() {
+
+});
 ```
 
-```
-car example.js | dereserve > build/example.js 
+to
+
+```javascript
+ajax('/asdf/1')["catch"](function(reason) {
+
+})["finally"](function() {
+
+});
 ```
 
 
