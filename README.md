@@ -15,6 +15,11 @@ DESCRIPTION
 Provides `dereserve` command to recast all ES3 reserved words to their safe alternatives. Using [es3-safe-recast](https://github.com/stefanpenner/es3-safe-recast) under the hood.
 
 
+CHANGELOG
+---------------------------------------
+See [CHANGELOG](https://github.com/twada/dereserve/blob/master/CHANGELOG.md)
+
+
 USAGE
 ---------------------------------------
 

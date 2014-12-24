@@ -21,6 +21,7 @@
     "mocha": "^2.1.0"
   },
   "files": [
+    "CHANGELOG.md",
     "README.md",
     "bin",
     "index.js",
