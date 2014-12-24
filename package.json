@@ -1,0 +1,44 @@
+{
+  "name": "dereserve",
+  "description": "CLI for es3-safe-recast, recasts all ES3 reserved words to their safe alternatives",
+  "version": "0.0.1",
+  "author": {
+    "name": "Takuto Wada",
+    "email": "takuto.wada@gmail.com",
+    "url": "https://github.com/twada"
+  },
+  "bin": {
+    "dereserve": "./bin/cmd.js"
+  },
+  "bugs": "https://github.com/twada/dereserve/issues",
+  "dependencies": {
+    "concat-stream": "^1.4.7",
+    "es3-safe-recast": "^1.0.0",
+    "recast": "^0.9.11"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "files": [
+    "README.md",
+    "bin",
+    "index.js",
+    "package.json",
+    "test"
+  ],
+  "homepage": "https://github.com/twada/dereserve",
+  "keywords": [
+    "ecmascript"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://twada.mit-license.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twada/dereserve.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
