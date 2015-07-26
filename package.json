@@ -32,10 +32,7 @@
   "keywords": [
     "ecmascript"
   ],
-  "license": {
-    "type": "MIT",
-    "url": "http://twada.mit-license.org/"
-  },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/twada/dereserve.git"
