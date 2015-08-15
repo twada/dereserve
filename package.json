@@ -13,8 +13,7 @@
   "bugs": "https://github.com/twada/dereserve/issues",
   "dependencies": {
     "concat-stream": "^1.4.8",
-    "es3-safe-recast": "^1.0.0",
-    "recast": "^0.10.12"
+    "es3-safe-recast": "^2.0.1"
   },
   "devDependencies": {
     "jshint": "^2.7.0",
