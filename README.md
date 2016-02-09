@@ -67,7 +67,7 @@ AUTHOR
 
 LICENSE
 ---------------------------------------
-Licensed under the [MIT](http://twada.mit-license.org/) license.
+Licensed under the [MIT](http://twada.mit-license.org/2014-2016) license.
 
 
 [npm-url]: https://npmjs.org/package/dereserve
@@ -79,5 +79,5 @@ Licensed under the [MIT](http://twada.mit-license.org/) license.
 [depstat-url]: https://gemnasium.com/twada/dereserve
 [depstat-image]: https://gemnasium.com/twada/dereserve.svg
 
-[license-url]: http://twada.mit-license.org/
+[license-url]: http://twada.mit-license.org/2014-2016
 [license-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
