@@ -62,22 +62,22 @@ and/or globally.
 
 AUTHOR
 ---------------------------------------
-* [Takuto Wada](http://github.com/twada)
+* [Takuto Wada](https://github.com/twada)
 
 
 LICENSE
 ---------------------------------------
-Licensed under the [MIT](http://twada.mit-license.org/2014-2016) license.
+Licensed under the [MIT](https://twada.mit-license.org/2014-2016) license.
 
 
 [npm-url]: https://npmjs.org/package/dereserve
 [npm-image]: https://badge.fury.io/js/dereserve.svg
 
-[travis-url]: http://travis-ci.org/twada/dereserve
+[travis-url]: https://travis-ci.org/twada/dereserve
 [travis-image]: https://secure.travis-ci.org/twada/dereserve.svg?branch=master
 
 [depstat-url]: https://gemnasium.com/twada/dereserve
 [depstat-image]: https://gemnasium.com/twada/dereserve.svg
 
-[license-url]: http://twada.mit-license.org/2014-2016
-[license-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
+[license-url]: https://twada.mit-license.org/2014-2016
+[license-image]: https://img.shields.io/badge/license-MIT-brightgreen.svg
