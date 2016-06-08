@@ -1,7 +1,7 @@
 {
   "name": "dereserve",
   "description": "provides `dereserve` command to recast all ES3 reserved words to their safe alternatives",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "author": {
     "name": "Takuto Wada",
     "email": "takuto.wada@gmail.com",
