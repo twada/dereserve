@@ -1,6 +1,6 @@
 {
   "name": "dereserve",
-  "description": "CLI for es3-safe-recast, recasts all ES3 reserved words to their safe alternatives",
+  "description": "provides `dereserve` command to recast all ES3 reserved words to their safe alternatives",
   "version": "0.1.1",
   "author": {
     "name": "Takuto Wada",

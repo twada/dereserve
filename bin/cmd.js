@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * dereserve
+ * dereserve: recast all ES3 reserved words to their safe alternatives.
  *
  * https://github.com/twada/dereserve
  *

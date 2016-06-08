@@ -1,18 +1,14 @@
 dereserve
 ================================
 
-CLI for es3-safe-recast
+Provides `dereserve` command to recast all ES3 reserved words to their safe alternatives.
 
 [![Build Status][travis-image]][travis-url]
 [![NPM version][npm-image]][npm-url]
 [![Dependency Status][depstat-image]][depstat-url]
 [![License][license-image]][license-url]
 
-
-DESCRIPTION
----------------------------------------
-
-Provides `dereserve` command to recast all ES3 reserved words to their safe alternatives. Using [es3-safe-recast](https://github.com/stefanpenner/es3-safe-recast) under the hood.
+Using [es3-safe-recast](https://github.com/stefanpenner/es3-safe-recast) under the hood.
 
 
 CHANGELOG
